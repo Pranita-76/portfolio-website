@@ -1,33 +1,31 @@
-Project Structure
-/project-folder
-│── personal.html
-│── personal.css
-│── personal.js
-│── pranita.jpg        ← Your profile image
-└── README.md          ← (this file)
-🛠️ Technologies Used
-Technology	Purpose
-HTML	Structure
-CSS	Styling & responsiveness
-JavaScript	Interactivity (menu toggle, animations)
-jQuery	DOM manipulation
-Typed.js	Typing animation
-OwlCarousel	Carousel animations
+📂 Project Structure</br>
+/project-folder</br>
+│── personal.html</br>
+│── personal.css</br>
+│── personal.js</br>
+│── pranita.jpg        ← Your profile image</br>
+└── README.md          ← (this file)</br>
+🛠️ Technologies Used</br>
+Technology	&nbsp;&nbsp Purpose</br>
+HTML	&nbsp;&nbspStructure</br>
+CSS	&nbsp;&nbspStyling & responsiveness</br>
+JavaScript	&nbsp;&nbspInteractivity (menu toggle, animations)</br>
+jQuery&nbsp;&nbsp	DOM manipulation</br>
+Typed.js	&nbsp;&nbspTyping animation</br>
+OwlCarousel	&nbsp;&nbspCarousel animations</br>
+▶ How to Run</br>
 
-▶ How to Run
+Download the project folder.</br>
 
-Download the project folder.
+Open personal.html in any browser (Chrome recommended).</br>
 
-Open personal.html in any browser (Chrome recommended).
+Enjoy your portfolio! 🌟</br>
+📌 Future Enhancements</br>
 
-Enjoy your portfolio! 🌟
+Add Dark/Light Mode</br>
 
-📌 Future Enhancements
+Include Real Projects Section</br>
 
-Add Dark/Light Mode
-
-Include Real Projects Section
-
-Add a Contact Form with Backend (PHP / Firebase)
+Add a Contact Form with Backend (PHP / Firebase)</br>
 
 SEO Optimization
